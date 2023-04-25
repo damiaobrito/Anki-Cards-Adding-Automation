@@ -1,12 +1,18 @@
+"""
+Applying the Object-Oriented Paradigm
+"""
+
 import requests
 import json
 
 class AnkiNote:
+    
     def __init__(self, front, back):
         self.front = front
         self.back = back
 
 class AnkiConnect:
+    
     ANKICONNECT_URL = "http://localhost:8765"
 
     @staticmethod
@@ -52,7 +58,7 @@ notes_data = [
     {
         "Front": "<h1>teste</h1><p>teste</p>",
         "Back": "<p>resultado do teste</p>"
-    }
+    },
 ]
 
 
