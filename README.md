@@ -1,1 +1,1 @@
-# Anki-Cards-Adding-Automation
+# Adicione Cards ao Seu Deck Facilmente
