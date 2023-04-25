@@ -1,7 +1,3 @@
-"""
-Applying the Object-Oriented Paradigm
-"""
-
 import requests
 import json
 
