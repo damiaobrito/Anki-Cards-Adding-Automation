@@ -1,1 +1,1 @@
-# Adicione Cards ao Deck usando Python e AnkiConnect
+# Python e AnkiConnect
