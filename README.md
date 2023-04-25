@@ -8,7 +8,7 @@ Antes de executar o script, é necessário instalar o AnkiConnect. Para isso, ba
 
 #### Para que as requisições funcionem, é necessário que o Anki esteja aberto.
 
-Tendo feito isso, agora só fazer as alterações no script, como adicionar os cards e nome do deck alvo, e executar o script.
+Tendo feito isso, agora só fazer as alterações no script, como adicionar os cards e nome do deck alvo, e executá-lo.
 
 
 
