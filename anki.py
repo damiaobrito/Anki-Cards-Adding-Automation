@@ -14,7 +14,7 @@ Lembre-se: quando for executar este código, mantenha o programa Anki aberto.
 import requests
 import json
 
-# Defina a URL do servidor da extenção AnkiConnect
+# Defina a URL do servidor da extensão AnkiConnect
 ANKICONNECT_URL = "http://localhost:8765"
 
 # Defina o tipo da NOTA
